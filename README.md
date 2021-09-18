@@ -14,8 +14,7 @@ I am a Data Science graduate student at Rochester Institute of Technology and I 
 <hr>
 
 <h3>Who am I?🙋‍♀️</h3>
-<iframe src="https://giphy.com/embed/123t0dxx3bQdCE" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/death-note-nate-river-123t0dxx3bQdCE">via GIPHY</a></p>
-<img align="left" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px">
+<img align="left" src="https://media.giphy.com/media/123t0dxx3bQdCE/giphy.gif?cid=ecf05e47q5v9ueetg9odu0c487vpd5b6dhcmbod26vvsn2i9&rid=giphy.gif&ct=g" width="280px">
 <ul>
 <li>👨‍💻 I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong> looking for internship opportunities.</li>
 <li>👨‍🔬 I'm working as a <em>Teaching Assistant</em> for <strong>Engineering Secure Software</strong>.</li>
@@ -41,7 +40,7 @@ I am a Data Science graduate student at Rochester Institute of Technology and I 
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<img align="right" src="https://media.giphy.com/media/SmQPRXW9eO5PjBeO30/giphy.gif?cid=ecf05e47caqmsp08rvmkil5k08yfvjcpi0ti33x1z7qzuw7e&rid=giphy.gif&ct=g" width="300px">
 <h3>🦄 While I am not working on data</h3>
 <ul>
     <li>I love to go for hikes ⛰🚲</li>
@@ -52,7 +51,8 @@ I am a Data Science graduate student at Rochester Institute of Technology and I 
 </ul>
 <hr>
 
-<h3>Feel free to reach me ✨</h3>
+<p>Want to brainstorm over ML problems? Or talk about Data analysis, statistical analysis? Get the reference of the first GIF and would like to talk about anime?</p>
+<h3>Feel free to reach me✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/shrunalipaygude/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
