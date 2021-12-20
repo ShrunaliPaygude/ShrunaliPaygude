@@ -47,8 +47,8 @@ I am a Data Science graduate student at Rochester Institute of Technology and I 
 </ul>
 <hr>
 
-[<img alt="alt_text" width="40px" src= "https://image.flaticon.com/icons/png/512/145/145807.png"/>](https://github.com/ShrunaliPaygude/Statistical-Analysis-for-Linear-Regression)
-#[![name](https://image.flaticon.com/icons/png/512/145/145807.png width="30px")](https://github.com/ShrunaliPaygude/Statistical-Analysis-for-Linear-Regression)
+[<img alt="alt_text" width="60px" src= "https://image.flaticon.com/icons/png/512/2111/2111370.pn"/>](https://github.com/ShrunaliPaygude/Statistical-Analysis-for-Linear-Regression)
+
 
 <p>Want to brainstorm over ML problems? Or talk about Data analysis, statistical analysis? Get the reference of the first GIF and would like to talk about anime?</p>
 <h3>Feel free to reach me✨</h3>
