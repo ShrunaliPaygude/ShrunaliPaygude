@@ -47,7 +47,7 @@ I am a Data Science graduate student at Rochester Institute of Technology and I 
 </ul>
 <hr>
 
-[![name](https://image.flaticon.com/icons/png/512/145/145807.png)](https://github.com/ShrunaliPaygude/Statistical-Analysis-for-Linear-Regression)
+[![Statistics for Data Science](https://image.flaticon.com/icons/png/512/145/145807.png width="30px")](https://github.com/ShrunaliPaygude/Statistical-Analysis-for-Linear-Regression)
 
 <p>Want to brainstorm over ML problems? Or talk about Data analysis, statistical analysis? Get the reference of the first GIF and would like to talk about anime?</p>
 <h3>Feel free to reach me✨</h3>
