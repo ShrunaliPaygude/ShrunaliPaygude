@@ -1,5 +1,5 @@
 <h1><strong>Hi, I'm Shrunali<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
-
+<h3 align="left"></em>Data Analyst | BIE @ Amazon</em></h3>
 <h3 align="left"></em>Be humble. Be hungry. Be kind and work hard. Amazing things will happen!💯</em></h3>
 <h3 align="left"><em>#NeverHaveIEverLovedDataSoMuch</em>   <img src="https://komarev.com/ghpvc/?username=shrunali-paygude" alt="shrunali-paygude"> </h3>
 
