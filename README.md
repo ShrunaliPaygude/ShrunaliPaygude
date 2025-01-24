@@ -4,15 +4,15 @@
 <h3 align="left"><em>#NeverHaveIEverLovedDataSoMuch</em>   <img src="https://komarev.com/ghpvc/?username=shrunali-paygude" alt="shrunali-paygude"> </h3>
 
 
-<p>For me, this is the quote that I live by. I am a diligent person by nature and a data enthusiast by passion!</p>
-<p>Experienced analyst with over three years in data analysis and data engineering, adept at navigating diverse business domains and tackling complex challenges through creative problem-solving. Currently, as a Data Analyst/Business Intelligence Engineer at Amazon Pharmacy, I specialize in transforming complex data into actionable insights. I have streamlined financial attribution processes, resulting in a 30% reduction in reporting time, and optimized ETL pipelines using AWS tools like Redshift, Glue, and Spark SQL.
-Key strengths include:
+<p>Experienced analyst with over three years in data analysis and data engineering, adept at navigating diverse business domains and tackling complex challenges through creative problem-solving. Currently, as a Data Analyst/Business Intelligence Engineer at Amazon Pharmacy, I specialize in transforming complex data into actionable insights.
+I have extensive experience in data analysis and engineering, leveraging tools like SQL, Python, Databricks, and Talend to design and optimize scalable solutions. I’ve conducted complex data analysis and streamlined performance reporting to improve operational efficiency. My expertise includes migrating data pipelines from Snowflake to Redshift using SQL and Spark SQL, enhancing system performance and processing capabilities. Additionally, I’ve automated validation processes, eliminating manual intervention and improving workflow reliability. I specialize in building scalable ETL workflows with AWS Glue and S3, and using statistical methods like chi-square tests to deliver actionable business insights. By collaborating with cross-functional teams, I’ve refined data ingestion processes and implemented impactful, scalable solutions tailored to business needs.
 
 Advanced proficiency in AWS and data engineering tools
 Expertise in automating data processes and refining business metrics
 Strong analytical and problem-solving skills focused on business impact
 With a Master’s in Data Science, I am committed to leveraging data to drive strategic growth and enhance decision-making. I welcome the opportunity to connect and discuss how we can collaborate to achieve business excellence!
 Check out my Machine Learning work: https://link.springer.com/article/10.1007/s13278-022-00906-8.</p>
+Check out my Tableau fun projects: https://public.tableau.com/app/profile/shrunali/viz/FinancialOverview_16447937243040/FCOVERVIEW
 
 <hr>
 
