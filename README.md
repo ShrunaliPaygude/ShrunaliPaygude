@@ -11,6 +11,7 @@ Advanced proficiency in AWS and data engineering tools
 Expertise in automating data processes and refining business metrics
 Strong analytical and problem-solving skills focused on business impact
 With a Master’s in Data Science, I am committed to leveraging data to drive strategic growth and enhance decision-making. I welcome the opportunity to connect and discuss how we can collaborate to achieve business excellence!
+
 Check out my Machine Learning work: https://link.springer.com/article/10.1007/s13278-022-00906-8.</p>
 Check out my Tableau fun projects: https://public.tableau.com/app/profile/shrunali/viz/FinancialOverview_16447937243040/FCOVERVIEW
 
