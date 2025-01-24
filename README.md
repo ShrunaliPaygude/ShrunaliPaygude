@@ -5,7 +5,15 @@
 
 
 <p>For me, this is the quote that I live by. I am a diligent person by nature and a data enthusiast by passion!
-I am a Data Science graduate student at Rochester Institute of Technology and I love to delve into data to analyze and solve business questions using Machine Learning, statistical analysis, and other data analysis tools and techniques.</p>
+Experienced analyst with over three years in strategic finance and corporate financial planning and analysis (FP&A), adept at navigating diverse business domains and tackling complex challenges through creative problem-solving. Currently, as a Data Analyst/Business Intelligence Engineer at Amazon Pharmacy, I specialize in transforming complex data into actionable insights. I have streamlined financial attribution processes, resulting in a 30% reduction in reporting time, and optimized ETL pipelines using AWS tools like Redshift, Glue, and Spark SQL. Customer Satisfaction: Enhanced satisfaction by 15% through Looker analyses, improving monthly reporting and reducing manual reconciliation by 30%.
+
+Key strengths include:
+
+Advanced proficiency in AWS and data engineering tools
+Expertise in automating data processes and refining business metrics
+Strong analytical and problem-solving skills focused on business impact
+With a Master’s in Data Science, I am committed to leveraging data to drive strategic growth and enhance decision-making. I welcome the opportunity to connect and discuss how we can collaborate to achieve business excellence!
+Check out my Machine Learning work: https://link.springer.com/article/10.1007/s13278-022-00906-8.</p>
 
 <hr>
 
