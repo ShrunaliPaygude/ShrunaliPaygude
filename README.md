@@ -4,9 +4,8 @@
 <h3 align="left"><em>#NeverHaveIEverLovedDataSoMuch</em>   <img src="https://komarev.com/ghpvc/?username=shrunali-paygude" alt="shrunali-paygude"> </h3>
 
 
-<p>For me, this is the quote that I live by. I am a diligent person by nature and a data enthusiast by passion!
-Experienced analyst with over three years in strategic finance and corporate financial planning and analysis (FP&A), adept at navigating diverse business domains and tackling complex challenges through creative problem-solving. Currently, as a Data Analyst/Business Intelligence Engineer at Amazon Pharmacy, I specialize in transforming complex data into actionable insights. I have streamlined financial attribution processes, resulting in a 30% reduction in reporting time, and optimized ETL pipelines using AWS tools like Redshift, Glue, and Spark SQL. Customer Satisfaction: Enhanced satisfaction by 15% through Looker analyses, improving monthly reporting and reducing manual reconciliation by 30%.
-
+<p>For me, this is the quote that I live by. I am a diligent person by nature and a data enthusiast by passion!</p>
+<p>Experienced analyst with over three years in data analysis and data engineering, adept at navigating diverse business domains and tackling complex challenges through creative problem-solving. Currently, as a Data Analyst/Business Intelligence Engineer at Amazon Pharmacy, I specialize in transforming complex data into actionable insights. I have streamlined financial attribution processes, resulting in a 30% reduction in reporting time, and optimized ETL pipelines using AWS tools like Redshift, Glue, and Spark SQL.
 Key strengths include:
 
 Advanced proficiency in AWS and data engineering tools
@@ -20,9 +19,8 @@ Check out my Machine Learning work: https://link.springer.com/article/10.1007/s1
 <h3>Who am I?🙋‍♀️</h3>
 <img align="left" src="https://media.giphy.com/media/123t0dxx3bQdCE/giphy.gif?cid=ecf05e47q5v9ueetg9odu0c487vpd5b6dhcmbod26vvsn2i9&rid=giphy.gif&ct=g" width="280px">
 <ul>
-<li>👨‍💻 I'm a <em>Data Science</em> student at <strong>Rochester Institute of Technology</strong> looking for internship opportunities.</li>
-<li>👨‍🔬 I'm working as a <em>Teaching Assistant</em> for <strong>Engineering Secure Software</strong>.</li>
-<li>☁  Worked as <em>System Administrator - Workforce Identity and Access Management</em> at <strong>Vodafone Intelligent Solutions (_VOIS)</strong> for 12 months.</li>
+<li>👨‍💻 I'm a <em>Data Analyst/ Data Engineer</em> at <strong>Amazon</strong> exploring new full time opportunities.</li>
+<li>☁  Worked as <em>Data Analyst | BIE </em> at <strong>Amazon</strong> and a previous <em>Data Analyst</em> at <strong>Vodafone Intelligent Solutions (_VOIS)</strong></li>
 <li>👨‍🎓 I firmly belive in growing together.</li>
 </ul>
 <hr>
